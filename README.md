@@ -1,0 +1,1 @@
+This repository contains examples demonstrating a common CSS specificity bug and its solution. The `bug.css` file shows the problematic code, while `bugSolution.css` provides a corrected version.
